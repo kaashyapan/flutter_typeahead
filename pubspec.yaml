@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   keyboard_visibility: 
-    git: https://github.com/yoali11/flutter_keyboard_visibility.git
+    git: https://github.com/kaashyapan/flutter_keyboard_visibility.git
 
 dev_dependencies:
   flutter_test:
