@@ -11,7 +11,8 @@ authors:
 dependencies:
   flutter:
     sdk: flutter
-  keyboard_visibility: ^0.5.6
+  keyboard_visibility: 
+    git: https://github.com/yoali11/flutter_keyboard_visibility.git
 
 dev_dependencies:
   flutter_test:
